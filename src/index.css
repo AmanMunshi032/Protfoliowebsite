@@ -1,0 +1,13 @@
+body{
+  background:rgb(37, 37, 37);  
+    color:#FFF;
+    
+}
+/* index.css */
+html {
+  scroll-behavior: smooth;
+}
+
+
+@import "tailwindcss";
+@plugin "daisyui";
