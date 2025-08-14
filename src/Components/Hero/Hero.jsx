@@ -54,7 +54,7 @@ const Hero = () => {
             </a>
           </div>
         </div>
-        <div className="lg:w-100 lg:h-100 rounded-full overflow-hidden border-4 border-white flex-shrink-0">
+        <div className="w-100 h-100 rounded-full overflow-hidden border-4 border-white flex-shrink-0">
           <img
             src="https://i.ibb.co.com/KzDD5dRg/Whats-App-Image-2025-08-14-at-13-31-28-4fa8801c.jpg"
             alt="Your Photo"

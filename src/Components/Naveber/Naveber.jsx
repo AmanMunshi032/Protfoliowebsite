@@ -36,7 +36,7 @@ const Naveber = () => {
             </ul>
           </div>
           <div className="flex gap-2">
-            <img className="w-12" src="/src/assets/Logo.png" alt="" />
+            <img className="w-12" src="https://i.ibb.co.com/S4WCxcch/Logo.png" alt="" />
             <h1 className="font-bold text-4xl text-transparent bg-clip-text bg-gradient-to-r from-emerald-500 to-indigo-500">Aman</h1>
           </div>
         </div>
